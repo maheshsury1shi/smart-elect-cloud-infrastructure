@@ -18,10 +18,8 @@ This documents a **complete full-stack election voting system** deployed to AWS 
 
 | Component | Link | Status |
 |-----------|------|--------|
-| **Frontend App** | [Visit Voting App](#) | ✅ Running |
-| **Admin Dashboard** | [Admin Panel](#) | ✅ Running |
-| **API Documentation** | [API Docs](#) | ✅ Available |
-| **Health Check** | [System Status](#) | ✅ Operational |
+| **Frontend App** | [https://dfm621sp0hp4x.cloudfront.net/] | ✅ Running |
+| **Admin Dashboard** | [https://dfm621sp0hp4x.cloudfront.net/admin/login] | ✅ Running |
 
 ### 🔐 Demo Credentials
 
