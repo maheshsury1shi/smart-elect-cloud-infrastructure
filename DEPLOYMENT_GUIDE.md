@@ -259,8 +259,7 @@ npm install
 
 # Create .env file
 cat > .env << EOF
-MONGODB_URI=mongodb+srv://admin:password@cluster0.6bijejl.mongodb.net/election_voting?retryWrites=true&w=majority
-JWT_SECRET=your-secret-key-min-32-chars-for-production
+MONGODB_URI= --------------------
 PORT=5000
 NODE_ENV=production
 FRONTEND_URL= AWS Cloudfront Domain
